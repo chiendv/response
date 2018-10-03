@@ -1,3 +1,8 @@
+## Copyright
+
+The quick fix (issues and vulnerabilities) for clone of https://github.com/mikeal/response by contributers.
+For stable version, I suggest use version by Mikeal
+
 ## Quick Example
 
     response.json({result:'error',missing_keys:['email']}).status(400).pipe(res)

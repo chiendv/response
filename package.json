@@ -1,5 +1,5 @@
 {
-  "name": "response",
+  "name": "@chiendv/response",
   "version": "0.18.2",
   "description": "Streaming and mutation API for HTTP responses.",
   "main": "index.js",
